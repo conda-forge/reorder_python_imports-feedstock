@@ -27,7 +27,7 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-reorder_python_imports-green.svg)](https://anaconda.org/conda-forge/reorder_python_imports) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/reorder_python_imports.svg)](https://anaconda.org/conda-forge/reorder_python_imports) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/reorder_python_imports.svg)](https://anaconda.org/conda-forge/reorder_python_imports) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/reorder_python_imports.svg)](https://anaconda.org/conda-forge/reorder_python_imports) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-reorder__python__imports-green.svg)](https://anaconda.org/conda-forge/reorder_python_imports) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/reorder_python_imports.svg)](https://anaconda.org/conda-forge/reorder_python_imports) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/reorder_python_imports.svg)](https://anaconda.org/conda-forge/reorder_python_imports) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/reorder_python_imports.svg)](https://anaconda.org/conda-forge/reorder_python_imports) |
 
 Installing reorder_python_imports
 =================================

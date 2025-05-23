@@ -7,7 +7,7 @@
 
 [project]
 name = "reorder_python_imports-feedstock"
-version = "3.47.1"  # conda-smithy version used to generate this file
+version = "3.48.1"  # conda-smithy version used to generate this file
 description = "Pixi configuration for conda-forge/reorder_python_imports-feedstock"
 authors = ["@conda-forge/reorder_python_imports"]
 channels = ["conda-forge"]
